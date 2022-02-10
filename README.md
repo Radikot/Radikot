@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radikot
 - 👀 I’m interested in С++
-- 🌱 I’m currently learning Smart pointers
+- 🌱 I’m currently learning Область видимости и другие типы переменных в C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: idr1sov.rad@yandex.ru
 
